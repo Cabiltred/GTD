@@ -1,0 +1,37 @@
+MACATV 1.x
+==================
+- Webservice alta servicio
+- Webservise baja servicio
+- Webservice refrescar cas
+- Webservice corte y repo
+- Webservice modifica servicio
+- Webservice refrescar cambio plan
+- Webservice alta servicio corp
+- Webservice baja servicio corp
+- Webservice refrescar cas corp
+- Webservice corte y repo corp
+- Webservice del stb corp
+- Webservice add stb corp
+
+MACATV 2.x
+==================
+- Refactor Webservice alta servicio
+- Refactor Webservise baja servicio
+- Refactor Webservice refrescar cas
+- Refactor Webservice corte y repo
+- Refactor Webservice modifica servicio
+- Refactor Webservice refrescar cambio plan
+- Refactor Webservice alta servicio corp
+- Refactor Webservice baja servicio corp
+- Refactor Webservice refrescar cas corp
+- Refactor Webservice corte y repo corp
+- Refactor Webservice del stb corp
+- Refactor Webservice add stb corp
+
+NEW FEATRUES
+- Adicion de proceso de alta en VO
+- Adicion de proceso de baja de VO
+- Adicion de proceso de corte y repo de VO
+- Adicion de proceso de refrescar cas de VO
+- Adicion de proceso de modificacion de servicio VO
+

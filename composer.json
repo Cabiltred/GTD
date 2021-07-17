@@ -1,0 +1,35 @@
+{   "name": "gtd/gtd",
+    "description": "Configuración de composer para GTD",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+      {
+            "name": "Macarena Cerda Mora",
+            "email": "mcerda@grupogtd.com",
+            "role": "Jefe de Inteligencia de Red"
+        },
+      {
+            "name": "Francisco Sandoval",
+            "email": "francisco.sandoval@grupogtd.com",
+            "role": "Ingeniero de Inteligencia de Red"
+        },
+        {
+            "name": "Manuel Alberto Chaves",
+            "email": "manuel.chaves@softtek.com",
+            "role": "Ingeniero Desarrollador"
+        }
+    ],
+  "require-dev": {
+    "phpdocumentor/phpdocumentor": "2.*"
+  },
+  "autoload": {
+        "psr-4": {
+            "Gtd\\": "web/src/"
+        }
+    },
+  "require": {
+    "asistenteweb/nusoap": "dev-master",
+    "guzzlehttp/guzzle": "^6.5",
+        "kamermans/guzzle-oauth2-subscriber": "^1.0"
+  }
+}
